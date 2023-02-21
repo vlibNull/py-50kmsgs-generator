@@ -1,0 +1,8 @@
+click @ file:///home/conda/feedstock_root/build_artifacts/click_1666798198223/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1676592993069/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1672612343532/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1648147185463/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1674135794919/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1676411946679/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1676708471276/work

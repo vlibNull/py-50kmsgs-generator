@@ -8,3 +8,5 @@
 - defaults to ``127.0.0.1:5000``   
 - P.S. Forgive the main branch typo, it is 500k, but you can simply alter the range of the loop
 - to alter the amount of entries it will create!
+- P.S. P.S. -> to assist in getting this running, use ``pip install -r requirements.txt`` within a venv or on your system
+- to acquire the necessary packages to run these scripts.
